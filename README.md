@@ -8,7 +8,7 @@ I have experience in NLP and Image ML projects.
 2021.03 ~  M.S. in Future Convergence Technology Engineering, Sungshin University, Seoul, Korea
 2017.03 ~ 2021.02 B.S. in Convergence Security, Sungshin University, Seoul, Korea
 
-<h3 allgn="center"> Skils </h3>
+<h3 align="center"> Skils </h3>
 
 
 <!--
