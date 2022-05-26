@@ -9,7 +9,7 @@ I have experience in NLP and Image ML projects.
 2017.03 ~ 2021.02 B.S. in Convergence Security, Sungshin University, Seoul, Korea
 
 <h3 align="center"> Skils </h3>
-
+https://img.shields.io/badge/<>-<Python>-<blue>
 
 <!--
 **kukeumen/kukeumen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
