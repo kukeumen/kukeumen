@@ -1,8 +1,6 @@
 # Lee Seyoung
 I'm ML Engineer
 I have experience in NLP and Image ML projects.
-
-## contact
 📫 20171966@sungshin.ac.kr
 
 # Education
