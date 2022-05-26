@@ -1,6 +1,6 @@
 # Lee Seyoung
-I'm ML Engineer
-I have experience in NLP and Image ML projects.
+I'm ML Engineer</n>
+I have experience in NLP and Image ML projects.</n>
 📫 20171966@sungshin.ac.kr
 📓 blog: https://kukeumen.tistory.com/
 
