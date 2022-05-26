@@ -10,7 +10,7 @@ I have experience in NLP and Image ML projects.
 
 <h3 align="center"> Skils </h3>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/TensorFlow-#FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp  
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp  
 
 <!--
 **kukeumen/kukeumen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
