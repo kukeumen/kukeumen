@@ -9,7 +9,8 @@ I have experience in NLP and Image ML projects.
 2017.03 ~ 2021.02 B.S. in Convergence Security, Sungshin University, Seoul, Korea
 
 <h3 align="center"> Skils </h3>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/#FF6F00?style=flat-square&logo=simpleiconsTensorFlow&logoColor=white"/></a>&nbsp  
 
 <!--
 **kukeumen/kukeumen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
