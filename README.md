@@ -1,12 +1,12 @@
 # Lee Seyoung
 I'm ML Engineer</br>
 I have experience in NLP and Image ML projects.</br>
-📫 20171966@sungshin.ac.kr</br>
+📫 seyoung3917@gmail.com</br>
 📓 blog: https://kukeumen.tistory.com/
 
 # Education
-2021.03 ~  M.S. in Future Convergence Technology Engineering, Sungshin University, Seoul, Korea</br>
-2017.03 ~ 2021.02 B.S. in Convergence Security, Sungshin University, Seoul, Korea
+2021.03 ~ 2023.02 M.S. in Future Convergence Technology Engineering, Sungshin University, Seoul, Korea</br>
+2017.03 ~ 2021.02 B.S. in Convergence Security Engineering, Sungshin University, Seoul, Korea
 
 <h3 align="center"> Skils </h3>
 <p align="center">
