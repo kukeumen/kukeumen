@@ -1,5 +1,5 @@
 # Lee Seyoung
-I'm ML Engineer</br>
+I'm  Engineer</br>
 I have experience in NLP and Image ML projects.</br>
 📫 seyoung3917@gmail.com</br>
 📓 blog: https://kukeumen.tistory.com/
