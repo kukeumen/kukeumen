@@ -2,7 +2,7 @@
 I'm  AI Engineer</br>
 I have experience in NLP and Image ML projects.</br>
 📫 seyoung3917@gmail.com</br>
-📓 blog: https://kukeumen.tistory.com/
+👩‍💻 portfolio: https://better-jury-0c3.notion.site/AI-a58364586e3343169fb1269856dbafeb
 
 # Education
 2021.03 ~ 2023.02 M.S. in Future Convergence Technology Engineering, Sungshin University, Seoul, Korea</br>
